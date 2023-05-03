@@ -13,7 +13,7 @@ int main(){
     
     int x;
     t_aluno a;
-    t_aluno ana = ( .nome = "ana",.matricula = "A1", .nota)
+    t_aluno ana = ( .nome = "ana",.matricula = "A1", .nota);
     t_aluno *ptr;
     ptr = &a;
 
